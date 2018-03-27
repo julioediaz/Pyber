@@ -1,3 +1,11 @@
+Trend Analysis
+
+From these visualizations, it is clear that urban type cities provide the highest amount of rides at the lowest fare prices. Suburban type cities produce moderate amount of fares at moderate prices. Lastly, rural type cities produce the least amount of rides at the highest fares. There are some noticeable outliers among the set of rural data provided, but there is a clear trend that is prominent in the scatter plot visualization produced. 
+
+* Lower fares driven by mode rides and drivers in urban areas. 
+* Rural rides have few drivers but much variability in fares.
+* Urban and suburban fares each have an average fare range of 10 dollars.
+
 # Pyber
 # Dependencies
 import pandas as pd
